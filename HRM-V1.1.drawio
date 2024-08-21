@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="jahxf6-Nlgz9H44ct3V5">
-    <mxGraphModel dx="6007" dy="2700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12900" dy="5570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,9 +203,6 @@
         </mxCell>
         <mxCell id="9cYoRjUQ95D6RNDLffrj-55" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;t_user_subscribe&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; created_time  /* 创建时间 */: datetime&lt;br/&gt; updated_time  /* 更新时间 */: datetime&lt;br/&gt; created_by  /* 创建者 */: varchar(256)&lt;br/&gt; updated_by  /* 更新者 */: varchar(256)&lt;br/&gt; userid  /* 用户id */: varchar(256)&lt;br/&gt; classification  /* 关注的类别（多选） */: text&lt;br/&gt; others  /* 其他 */: varchar(256)&lt;br/&gt; target  /* 努力方向 */: varchar(256)&lt;br/&gt; name  /* 姓名 */: varchar(256)&lt;br/&gt; department  /* 所属部门 */: varchar(256)&lt;br/&gt; classification_string  /* 关注的类别标题 */: text&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id  /* 主键 */: bigint&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="916" y="5204" width="282" height="328" as="geometry" />
-        </mxCell>
-        <mxCell id="9cYoRjUQ95D6RNDLffrj-56" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;test_table  /* Sheet1 */&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt; id  /* id */: bigint&lt;br/&gt; name  /* name */: varchar(256)&lt;br/&gt; dept_name  /* deptName */: varchar(256)&lt;br/&gt; code  /* code */: bigint&lt;br/&gt; money  /* money */: bigint&lt;br/&gt; type  /* type */: varchar(256)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1344" y="5552" width="260" height="183" as="geometry" />
         </mxCell>
         <mxCell id="9cYoRjUQ95D6RNDLffrj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.403;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9cYoRjUQ95D6RNDLffrj-44" target="9cYoRjUQ95D6RNDLffrj-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
